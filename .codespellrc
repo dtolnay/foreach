@@ -1,0 +1,3 @@
+[codespell]
+skip = .git,*.csv,*.json,*.wast,MODULE.bazel.lock,./dtolnay/libfyaml-rs/libfyaml-sys/libfyaml,./dtolnay/rust-quiz/docs/questions.js,./serde-rs/json-benchmark/cpp/rapidjson,./serde-rs/serde-rs.github.io/gitbook
+ignore-words-list = alse,crate,inout,ser,statics
