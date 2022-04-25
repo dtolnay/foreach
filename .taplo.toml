@@ -1,0 +1,19 @@
+exclude = ["dtolnay/basic-toml/tests/**"]
+
+[formatting]
+align_comments = false
+array_auto_collapse = false
+array_auto_expand = false
+indent_string = "    "
+
+[[rule]]
+include = ["**/Cargo.toml"]
+keys = [
+    "dependencies",
+    "patch.crates-io",
+    "target.*.dependencies",
+    "workspace",
+]
+[rule.formatting]
+reorder_arrays = true
+reorder_keys = true

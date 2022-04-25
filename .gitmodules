@@ -1,0 +1,276 @@
+[submodule "anyhow"]
+	path = dtolnay/anyhow
+	url = git@github.com:dtolnay/anyhow
+[submodule "argv"]
+	path = dtolnay/argv
+	url = git@github.com:dtolnay/argv
+[submodule "async-trait"]
+	path = dtolnay/async-trait
+	url = git@github.com:dtolnay/async-trait
+[submodule "automod"]
+	path = dtolnay/automod
+	url = git@github.com:dtolnay/automod
+[submodule "bootstrap"]
+	path = dtolnay/bootstrap
+	url = git@github.com:dtolnay/bootstrap
+[submodule "bufsize"]
+	path = dtolnay/bufsize
+	url = git@github.com:dtolnay/bufsize
+[submodule "build-alert"]
+	path = dtolnay/build-alert
+	url = git@github.com:dtolnay/build-alert
+[submodule "cargo-docs-rs"]
+	path = dtolnay/cargo-docs-rs
+	url = git@github.com:dtolnay/cargo-docs-rs
+[submodule "cargo-expand"]
+	path = dtolnay/cargo-expand
+	url = git@github.com:dtolnay/cargo-expand
+[submodule "cargo-llvm-lines"]
+	path = dtolnay/cargo-llvm-lines
+	url = git@github.com:dtolnay/cargo-llvm-lines
+[submodule "cargo-tally"]
+	path = dtolnay/cargo-tally
+	url = git@github.com:dtolnay/cargo-tally
+[submodule "cargo-unlock"]
+	path = dtolnay/cargo-unlock
+	url = git@github.com:dtolnay/cargo-unlock
+[submodule "case-studies"]
+	path = dtolnay/case-studies
+	url = git@github.com:dtolnay/case-studies
+[submodule "clang-ast"]
+	path = dtolnay/clang-ast
+	url = git@github.com:dtolnay/clang-ast
+[submodule "colorous"]
+	path = dtolnay/colorous
+	url = git@github.com:dtolnay/colorous
+[submodule "cxx"]
+	path = dtolnay/cxx
+	url = git@github.com:dtolnay/cxx
+[submodule "dashboard"]
+	path = dtolnay/dashboard
+	url = git@github.com:dtolnay/dashboard
+[submodule "db-dump"]
+	path = dtolnay/db-dump
+	url = git@github.com:dtolnay/db-dump
+[submodule "dircnt"]
+	path = dtolnay/dircnt
+	url = git@github.com:dtolnay/dircnt
+[submodule "dissimilar"]
+	path = dtolnay/dissimilar
+	url = git@github.com:dtolnay/dissimilar
+[submodule "dragonbox"]
+	path = dtolnay/dragonbox
+	url = git@github.com:dtolnay/dragonbox
+[submodule "dtoa"]
+	path = dtolnay/dtoa
+	url = git@github.com:dtolnay/dtoa
+[submodule "dtoa-benchmark"]
+	path = dtolnay/dtoa-benchmark
+	url = git@github.com:dtolnay/dtoa-benchmark
+[submodule "dyn-clone"]
+	path = dtolnay/dyn-clone
+	url = git@github.com:dtolnay/dyn-clone
+[submodule "dyn-hash"]
+	path = dtolnay/dyn-hash
+	url = git@github.com:dtolnay/dyn-hash
+[submodule "erased-discriminant"]
+	path = dtolnay/erased-discriminant
+	url = git@github.com:dtolnay/erased-discriminant
+[submodule "erased-serde"]
+	path = dtolnay/erased-serde
+	url = git@github.com:dtolnay/erased-serde
+[submodule "essay"]
+	path = dtolnay/essay
+	url = git@github.com:dtolnay/essay
+[submodule "faketty"]
+	path = dtolnay/faketty
+	url = git@github.com:dtolnay/faketty
+[submodule "get-all-crates"]
+	path = dtolnay/get-all-crates
+	url = git@github.com:dtolnay/get-all-crates
+[submodule "ghost"]
+	path = dtolnay/ghost
+	url = git@github.com:dtolnay/ghost
+[submodule "hire"]
+	path = dtolnay/hire
+	url = git@github.com:dtolnay/hire
+[submodule "include-json"]
+	path = dtolnay/include-json
+	url = git@github.com:dtolnay/include-json
+[submodule "indoc"]
+	path = dtolnay/indoc
+	url = git@github.com:dtolnay/indoc
+[submodule "inherent"]
+	path = dtolnay/inherent
+	url = git@github.com:dtolnay/inherent
+[submodule "install"]
+	path = dtolnay/install
+	url = git@github.com:dtolnay/install
+[submodule "inventory"]
+	path = dtolnay/inventory
+	url = git@github.com:dtolnay/inventory
+[submodule "itoa"]
+	path = dtolnay/itoa
+	url = git@github.com:dtolnay/itoa
+[submodule "itoa-benchmark"]
+	path = dtolnay/itoa-benchmark
+	url = git@github.com:dtolnay/itoa-benchmark
+[submodule "link-cplusplus"]
+	path = dtolnay/link-cplusplus
+	url = git@github.com:dtolnay/link-cplusplus
+[submodule "linkme"]
+	path = dtolnay/linkme
+	url = git@github.com:dtolnay/linkme
+[submodule "macro-string"]
+	path = dtolnay/macro-string
+	url = git@github.com:dtolnay/macro-string
+[submodule "miniserde"]
+	path = dtolnay/miniserde
+	url = git@github.com:dtolnay/miniserde
+[submodule "monostate"]
+	path = dtolnay/monostate
+	url = git@github.com:dtolnay/monostate
+[submodule "no-panic"]
+	path = dtolnay/no-panic
+	url = git@github.com:dtolnay/no-panic
+[submodule "opt-level"]
+	path = dtolnay/opt-level
+	url = git@github.com:dtolnay/opt-level
+[submodule "oqueue"]
+	path = dtolnay/oqueue
+	url = git@github.com:dtolnay/oqueue
+[submodule "path-to-error"]
+	path = dtolnay/path-to-error
+	url = git@github.com:dtolnay/path-to-error
+[submodule "precise"]
+	path = dtolnay/precise
+	url = git@github.com:dtolnay/precise
+[submodule "prettyplease"]
+	path = dtolnay/prettyplease
+	url = git@github.com:dtolnay/prettyplease
+[submodule "proc-macro-workshop"]
+	path = dtolnay/proc-macro-workshop
+	url = git@github.com:dtolnay/proc-macro-workshop
+[submodule "proc-macro2"]
+	path = dtolnay/proc-macro2
+	url = git@github.com:dtolnay/proc-macro2
+[submodule "quote"]
+	path = dtolnay/quote
+	url = git@github.com:dtolnay/quote
+[submodule "readonly"]
+	path = dtolnay/readonly
+	url = git@github.com:dtolnay/readonly
+[submodule "ref-cast"]
+	path = dtolnay/ref-cast
+	url = git@github.com:dtolnay/ref-cast
+[submodule "reflect"]
+	path = dtolnay/reflect
+	url = git@github.com:dtolnay/reflect
+[submodule "remain"]
+	path = dtolnay/remain
+	url = git@github.com:dtolnay/remain
+[submodule "respan"]
+	path = dtolnay/respan
+	url = git@github.com:dtolnay/respan
+[submodule "rust-quiz"]
+	path = dtolnay/rust-quiz
+	url = git@github.com:dtolnay/rust-quiz
+[submodule "rust-toolchain"]
+	path = dtolnay/rust-toolchain
+	url = git@github.com:dtolnay/rust-toolchain
+[submodule "rustflags"]
+	path = dtolnay/rustflags
+	url = git@github.com:dtolnay/rustflags
+[submodule "rustversion"]
+	path = dtolnay/rustversion
+	url = git@github.com:dtolnay/rustversion
+[submodule "ryu"]
+	path = dtolnay/ryu
+	url = git@github.com:dtolnay/ryu
+[submodule "scratch"]
+	path = dtolnay/scratch
+	url = git@github.com:dtolnay/scratch
+[submodule "semver"]
+	path = dtolnay/semver
+	url = git@github.com:dtolnay/semver
+[submodule "semver-trick"]
+	path = dtolnay/semver-trick
+	url = git@github.com:dtolnay/semver-trick
+[submodule "seq-macro"]
+	path = dtolnay/seq-macro
+	url = git@github.com:dtolnay/seq-macro
+[submodule "serde-ignored"]
+	path = dtolnay/serde-ignored
+	url = git@github.com:dtolnay/serde-ignored
+[submodule "serde-repr"]
+	path = dtolnay/serde-repr
+	url = git@github.com:dtolnay/serde-repr
+[submodule "serde-stacker"]
+	path = dtolnay/serde-stacker
+	url = git@github.com:dtolnay/serde-stacker
+[submodule "serde-starlark"]
+	path = dtolnay/serde-starlark
+	url = git@github.com:dtolnay/serde-starlark
+[submodule "serde-untagged"]
+	path = dtolnay/serde-untagged
+	url = git@github.com:dtolnay/serde-untagged
+[submodule "sha1dir"]
+	path = dtolnay/sha1dir
+	url = git@github.com:dtolnay/sha1dir
+[submodule "star-history"]
+	path = dtolnay/star-history
+	url = git@github.com:dtolnay/star-history
+[submodule "syn"]
+	path = dtolnay/syn
+	url = git@github.com:dtolnay/syn
+[submodule "talks"]
+	path = dtolnay/talks
+	url = git@github.com:dtolnay/talks
+[submodule "target-triple"]
+	path = dtolnay/target-triple
+	url = git@github.com:dtolnay/target-triple
+[submodule "thiserror"]
+	path = dtolnay/thiserror
+	url = git@github.com:dtolnay/thiserror
+[submodule "threadbound"]
+	path = dtolnay/threadbound
+	url = git@github.com:dtolnay/threadbound
+[submodule "trybuild"]
+	path = dtolnay/trybuild
+	url = git@github.com:dtolnay/trybuild
+[submodule "typeid"]
+	path = dtolnay/typeid
+	url = git@github.com:dtolnay/typeid
+[submodule "typetag"]
+	path = dtolnay/typetag
+	url = git@github.com:dtolnay/typetag
+[submodule "unicode-ident"]
+	path = dtolnay/unicode-ident
+	url = git@github.com:dtolnay/unicode-ident
+[submodule "watt"]
+	path = dtolnay/watt
+	url = git@github.com:dtolnay/watt
+[submodule "zmij"]
+	path = dtolnay/zmij
+	url = git@github.com:dtolnay/zmij
+[submodule "bench"]
+	path = serde-rs/bench
+	url = git@github.com:serde-rs/bench
+[submodule "bytes"]
+	path = serde-rs/bytes
+	url = git@github.com:serde-rs/bytes
+[submodule "serde-dashboard"]
+	path = serde-rs/dashboard
+	url = git@github.com:serde-rs/dashboard
+[submodule "example-format"]
+	path = serde-rs/example-format
+	url = git@github.com:serde-rs/example-format
+[submodule "json"]
+	path = serde-rs/json
+	url = git@github.com:serde-rs/json
+[submodule "serde"]
+	path = serde-rs/serde
+	url = git@github.com:serde-rs/serde
+[submodule "serde-rs.github.io"]
+	path = serde-rs/serde-rs.github.io
+	url = git@github.com:serde-rs/serde-rs.github.io
